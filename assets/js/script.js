@@ -1,10 +1,10 @@
 // Variabili con valore
 
-var userName = prompt("Quale e il tuo nome?");
+var userName = prompt("Qual e' il tuo nome?");
 
-var userLastname = prompt("Quale e il tuo cognome?");
+var userLastname = prompt("Qual e' il tuo cognome?");
 
-var userColor = prompt("Quale e il tuo colore preferito?");
+var userColor = prompt("Qual e' il tuo colore preferito?");
 
 
 document.getElementById("password").innerHTML = userName + userLastname + userColor + 19 ;
